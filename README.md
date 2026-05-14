@@ -18,7 +18,3 @@ ResearchWorkPreprocessingAlmazov - a file with pre-processing of the main text f
 ResearchWorkAlmazovClustering - a file with the basic algorithm for working with already processed text data. At this stage, topic modeling is performed, and then records within each topic are clustered using the DBSCAN algorithm.</br>
 
 MethodsComparing - a file comparing different approaches to dividing text entries into sentences.
-
-ResearchWorkPreprocessingAlmazovRazdel - a file with pre-processing of the main text field with general recommendations from the doctor.
-
-ResearchWorkAlmazovClusteringRazdel - a file with the basic algorithm for working with already processed text data. At this stage, topic modeling is performed, and then records within each topic are clustered using the DBSCAN algorithm.
